@@ -1,0 +1,37 @@
+// 1 = Rock 2 = Paper 3 = Scissors
+// userChoice = input (Choose Rock, Paper, or Scissors)
+// computerChoice = random.choice(options)
+
+Put "Rock, Paper, Scissors" to output
+
+// if userChoice == computerChoice
+// print (It's a tie!)
+
+// while True:
+// Game list = Rock, Paper, Scissors
+// userChoice = input (Rock, Paper, Scissors?)
+// Let the computer make its choice
+// import random
+// computerChoice = random choice(options)
+// Possibility of a draw
+// if computerChoice = userChoice
+// Drawchoice = input(It's a draw. Do you want to replay?(Y/N))
+// if Drawchoice = "Y"
+// continue
+// else
+// break
+// Possibility of playerwinning
+// if computerChoice == Rock and userChoice == Paper or ComputerChoice == Paper and userChoice == Scissors or computerChoice == Scissors and userChoice == Rock
+// userWin == (input"You won. The computerchose: + computerChoice + Do you want to play again?(Y/N))
+// if userWin == "Y"
+// continue
+// else:
+// break
+// Possibility of computer winning
+// if computerChoice == Rock and userChoice == Scissors or computerChoice == Paper and userChoice == Rock or computerChoice == Scissors and userChoice == Paper
+// userLose == (input (You lost. The Computerchose: + ComputerChoice + Do you want to play again? (Y/N))
+// if userLose == "Y" 
+// continue
+// else
+// break
+// End game
